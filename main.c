@@ -22,6 +22,7 @@ struct customer {
 
 int main()
 {
+        printf("hellllllllllllllllllllllllllllllllllllllllllllooooooo\n");
         char pass[10],pwd[10];
         int choice;
         struct customer data[20];
